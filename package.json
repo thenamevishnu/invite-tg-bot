@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.1",
+    "email-validator": "^2.0.4",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  }
+}
